@@ -210,5 +210,24 @@ stride-demo/
 
 ---
 
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, adquiri conhecimentos valiosos sobre a integração de IA em aplicações de segurança. É incrível como a estrutura da OpenAI para organizar os envios facilita o processo de interação com modelos de linguagem. Achei incríveis as definições dos porquês de cada propriedade, como a recomendação de usar `top_p: 0.95` para não ser tão firme ao prompt, mas dar capacidade de melhorar na criação, permitindo uma geração mais criativa e variada.
+
+Além disso, a experiência de utilizar a Azure OpenAI trouxe uma direção muito boa, com configurações robustas e escaláveis para deployments em nuvem. Não posso deixar de falar sobre a definição do conceito de STRIDE, que é extremamente importante para validar em nossas arquiteturas e são coisas que às vezes ficam para trás.
+
+### Definição de STRIDE
+STRIDE é uma metodologia de modelagem de ameaças de segurança, desenvolvida pela Microsoft, que classifica ameaças em seis categorias principais:
+- **S**poofing (Falsificação): Ataques que envolvem a falsificação de identidade.
+- **T**ampering (Adulteração): Modificações não autorizadas de dados.
+- **R**epudiation (Repúdio): Ações onde um usuário nega ter realizado uma operação.
+- **I**nformation Disclosure (Divulgação de Informações): Exposição não autorizada de dados confidenciais.
+- **D**enial of Service (Negação de Serviço): Ataques que impedem o acesso aos recursos.
+- **E**levation of Privilege (Elevação de Privilégio): Ganho de acesso a recursos não autorizados.
+
+Essa abordagem ajuda a identificar e mitigar riscos de segurança de forma sistemática.
+
+---
+
 ## Dúvidas?
 Só chamar que podemos ajudar ! 
