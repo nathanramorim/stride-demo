@@ -1,115 +1,3 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="./.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Formação: Agents de IA</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=E94D5F&labelColor=202024" alt="License"></a>
-</p>
-
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/hsouzaeduardo">
-        <img src="https://avatars.githubusercontent.com/u/1692867?s=400&u=b408cc35aea6b0b2cd69ba3745dbd134edd7ac8a&v=4" alt="@hsouzaeduardo"><br>
-        <sub>@hsouzaeduardo</sub>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>Especialista em Soluções distribuídas e Cloud, pós-graduado em Engenharia de Software, MBA em Arquitetura de Soluções e Dados &IA. Atuando há 25 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. Atualmente atuando como Gerente de Arquitetura e inteligência Artificial . Instrutor Oficial Microsoft há mais de 10 anos, Microsoft MVP e apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes e que todos merecem oportunidades e criador da fórmula:
-
-R = (T + D + TD)²
-
-Resultado = (Tempo + dedicação + Trabalho Duro)</p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
-
-<div align="center">
-  <h2>💻 Módulos</h2>
-</div>
-
-<div align="center">
-<table>
-  <thead>
-    <tr align="left">
-      <th>#</th>
-      <th>Módulo</th>
-      <th>Materiais</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>01</td>
-      <td>📁 Backend</td>
-      <td align="center">
-        <a href="https://learn.microsoft.com/pt-br/azure/security/develop/threat-modeling-tool-threats">
-           <img 
-              align="center" 
-              alt="Material de Apoio" 
-              src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>02</td>
-      <td>📁 Frontend</td>
-      <td align="center">
-        <a href="https://js.cytoscape.org/">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge"
-            >
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tfoot></tfoot>
-</table>
-</div>
-
-<!--START_SECTION:footer-->
-<br/>
-<br/>
-<p align="center">
-  ⌨️ Feito com 💜 by DIO
-</p>
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="./.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
 # STRIDE Threat Model Analyzer
 
 Este projeto é uma solução completa para análise de ameaças baseada na metodologia STRIDE, composta por um backend em FastAPI (Python) e um front-end em HTML/CSS/JS com visualização de ameaças usando Cytoscape.js.
@@ -134,7 +22,7 @@ Este projeto é uma solução completa para análise de ameaças baseada na meto
 
 ```bash
 # Clone o projeto
- git clone https://github.com/digitalinnovationone/stride-demo.git
+ git clone https://github.com/nathanramorim/stride-demo.git
  cd stride-demo
 ```
 
@@ -225,9 +113,4 @@ STRIDE é uma metodologia de modelagem de ameaças de segurança, desenvolvida p
 - **D**enial of Service (Negação de Serviço): Ataques que impedem o acesso aos recursos.
 - **E**levation of Privilege (Elevação de Privilégio): Ganho de acesso a recursos não autorizados.
 
-Essa abordagem ajuda a identificar e mitigar riscos de segurança de forma sistemática.
-
----
-
-## Dúvidas?
-Só chamar que podemos ajudar ! 
+Essa abordagem ajuda a identificar e mitigar riscos de segurança de forma sistemática. 
